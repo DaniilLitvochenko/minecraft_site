@@ -1,0 +1,11 @@
+{
+  "name": "minecraft_site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DaniilLitvochenko/minecraft_site.git",
+  "author": "Denis Nyukhalov <denisn2000@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
